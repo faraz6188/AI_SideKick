@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 # Configure the Gemini API with your API key
 
-genai.configure(api_key="AIzaSyCTtah3iahaJ6-TirG8Zapn_KE6sqSwamc")
+genai.configure(api_key="AIzaSyAdlblRJbXyDCCgKtQzCWl1QwJpacra1HA")
 
 # Inject CSS into the app
 st.markdown(
